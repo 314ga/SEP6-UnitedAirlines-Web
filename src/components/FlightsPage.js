@@ -1,8 +1,4 @@
 import React, { useState } from "react";
-import { useSelector } from 'react-redux';
-import store from '../store';
-import { retrieveFlightData } from '../reducers/flightData';
-
 //chart component imports
 import TopDestinationChart from "./charts/TopDestinationsChart";
 import FlightsPerMonthFrequency from "./charts/FlightsPerMonthFrequency";

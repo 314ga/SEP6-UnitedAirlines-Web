@@ -1,8 +1,4 @@
 import React, { useState } from "react";
-import { useSelector } from 'react-redux';
-import store from '../store';
-import { retrieveFlightData } from '../reducers/flightData';
-
 //table component import
 import PlanesPerManufacturer from "./tables/PlanesPerManufacturer";
 import FlightsManufacturer from "./tables/FlightsPerManufacturer";

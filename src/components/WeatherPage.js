@@ -12,7 +12,6 @@ import Tab from '@material-ui/core/Tab';
 import Typography from '@material-ui/core/Typography';
 import Box from '@material-ui/core/Box';
 
-import { retrieveData } from '../utils/StoreHandler';
 //Handles what view to render when a tab is clicked on
 function TabPanel(props) {
   const { children, value, index, ...other } = props;
