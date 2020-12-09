@@ -3,7 +3,7 @@ import './App.css';
 
 
 function App() {
-  const value = 'World';
+  const value = 'jkuubb';
   return <div>Hello {value}</div>;
 }
 
