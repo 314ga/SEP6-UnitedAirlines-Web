@@ -1,4 +1,4 @@
-
+import React from 'react';
 import './App.css';
 import FlightsPage from './components/FlightsPage';
 import ManufacturerPage from './components/ManufacturerPage';
