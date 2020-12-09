@@ -1,4 +1,5 @@
 import { Bar, Line, Pie } from 'react-chartjs-2'
+import React from "react";
 import { useSelector } from 'react-redux';
 
 
